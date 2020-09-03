@@ -335,7 +335,7 @@ render(){
 }
 ReactDOM.render(<Test />,document.getElementById('root'))
 
-// <!-- uu-->
+// <!-- Class Component-->
 class Garage extends React.Component{
 render(){
     // JavaScript Object

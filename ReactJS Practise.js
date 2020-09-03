@@ -22,7 +22,7 @@ ReactDOM.render(<h1>Hello React!</h1>, document.getElementById('root'));
 // A really cool feature of Create React App is Fast Refresh, which automatically reflects the changes made to the code in the browser.
 // Notice that the name of the functional component begins with a capital letter.
 
-// Bob Ziroll Exercises from FreeCodeCamp() 
+// Bob Siroll Exercises from FreeCodeCamp() 
 
 // Exercise-1
 import React from 'react';
